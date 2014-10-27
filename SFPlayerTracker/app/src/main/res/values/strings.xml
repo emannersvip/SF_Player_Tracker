@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SF Player Tracker</string>
+    <string name="Name">Name</string>
+    <string name="Char">Character</string>
+    <string name="Desc">Description</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
